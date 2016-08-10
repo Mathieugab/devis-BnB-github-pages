@@ -65,6 +65,10 @@ p {
 }
 .bg-dark1 {
     color: #fff;
+    background-color: #f05f40;
+}
+.bg-dark2 {
+    color: white;
     background-color: black;
 }
 
@@ -74,7 +78,7 @@ p {
 }
 
 section {
-    padding: 100px 0;
+    padding: 40px 0;
 }
 
 aside {
