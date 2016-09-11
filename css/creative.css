@@ -4,6 +4,37 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+ #typeform_launch_button {
+    padding: 15px 30px;
+    border: 0;
+    border-radius: 300px;
+    text-transform: uppercase;
+    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+    font-weight: 700;
+    
+    color: #fff;
+    background-color: #f05f40;
+    
+    transition: all .35s;
+        display: inline-block;
+    
+    margin-bottom: 0;
+    font-size: 14px;
+    
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+   
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    
+    background-image: none;
+        text-decoration: none;
+    
+     }
+
 html,
 body {
     width: 100%;
