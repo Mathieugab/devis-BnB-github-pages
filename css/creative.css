@@ -35,6 +35,33 @@
     
      }
 
+     #typeform_launch_button1 {
+
+            border: 0;
+    border-radius: 300px;
+    text-transform: uppercase;
+    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+    font-weight: 700;
+        padding: 10px 16px;
+    font-size: 18px;
+    line-height: 1.3333333;
+    color: #fff;
+    background-color: #5cb85c;
+    display: inline-block;
+    margin-bottom: 0;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    background-image: none;
+    transition: all .35s;
+    text-decoration: none;
+    box-sizing: border-box;
+
+        }
+
 html,
 body {
     width: 100%;
