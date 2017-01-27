@@ -139,6 +139,14 @@ p {
     background-color: black;
 }
 
+.bg-grey {
+    color: grey;
+    background-color: black;
+}
+
+.bg-grey a{
+    color: grey;
+}
 
 .text-faded {
     color: rgba(255,255,255,.7);
